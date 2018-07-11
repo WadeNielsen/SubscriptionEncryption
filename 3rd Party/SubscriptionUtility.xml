@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SubscriptionUtility</name>
+    </assembly>
+    <members>
+        <member name="M:SubscriptionUtility.SubscriptionChecker.GetSubscriptions(System.Int32)">
+            <summary>
+            Returns a string of subscriptions in XML<Subscriptions><Subscription><Name></Name><IsSubscribed></IsSubscribed></Subscription></Subscriptions>
+            </summary>
+            <returns><Subscriptions><Subscription><Name></Name><IsSubscribed></IsSubscribed></Subscription></Subscriptions></returns>
+        </member>
+    </members>
+</doc>

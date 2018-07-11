@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionEncryption", "SubscriptionEncryption\SubscriptionEncryption.csproj", "{3616D405-7A56-4298-9338-0B7B743BBBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3616D405-7A56-4298-9338-0B7B743BBBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3616D405-7A56-4298-9338-0B7B743BBBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3616D405-7A56-4298-9338-0B7B743BBBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3616D405-7A56-4298-9338-0B7B743BBBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26ABE537-D6CB-4001-AF36-2FB970C98E93}
+	EndGlobalSection
+EndGlobal
